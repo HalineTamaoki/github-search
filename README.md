@@ -4,6 +4,10 @@ This project aimed to create a GitHub search engine using ReactJS.
 
 This project connects to the GitHub API, and creates a web application that allows searching for the user by his/her username and returns their data, as well as their repositories and those starred.
 
+## Install
+Clone this repository and install it dependencies with this command:
+
+$ npm install
 
 ## Running
 
