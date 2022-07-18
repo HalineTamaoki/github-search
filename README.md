@@ -7,7 +7,9 @@ This project connects to the GitHub API, and creates a web application that allo
 ## Install
 Clone this repository and install it dependencies with this command:
 
+```shell
 $ npm install
+```
 
 ## Running
 
